@@ -7,7 +7,7 @@ Ini adalah server-side untuk aplikasi Top Upp, dibuat menggunakan PHP Native.
 * `history.php`: Endpoint untuk melihat riwayat transaksi.
 * `koneksi.php`: Konfigurasi koneksi database.
 
-## ⚙️ Cara Instalasi (Untuk Penilai)
+## ⚙️ Cara Instalasi
 
 1.  Download source code ini.
 2.  Simpan di folder `htdocs` (XAMPP) atau `www` (Laragon).
